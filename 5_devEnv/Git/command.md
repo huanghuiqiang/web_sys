@@ -60,13 +60,17 @@
 
 ### 本地分支如何推送到远程
 
-本地新建分支，-b 是新建后跳转到该分支
+本地新建分支，跳转到该分支
 
 > git checkout -b 'branch-name'
 
 推送本地分支到远程仓库
 
 > git push 'remote' 'branch'
+
+备注： 如果本地有该分支，远程没有。需要在本地分支和远程分支之间建立关联 ，origin 替换成库的链接
+
+git push --set-upstream origin 5_devEnv
 
 ### 合并分支
 
