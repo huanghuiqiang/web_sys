@@ -10,13 +10,18 @@
 
 ### 区别
 
-null 表示值，空值。undefined 表示声明了变量，未定义，抛出错误。
+1. 不同
+   null 表示值，空值。undefined 表示声明了变量，未定义，抛出错误。
 
-（如果未声明变量，直接使用报 is not defined,这个和 undefined 是不一样的。）
+2. 相同
+   装换为布尔值都是 false
 
-装换为布尔值都是 false
+3. undefined 和 undeclared
+   （如果未声明变量，直接使用报 is not defined,这个和 undefined 是不一样的。）
 
-问题： 哪些值转换为布尔值是 false？
+4. 问题：
+
+哪些值转换为布尔值是 false？
 
 - 数值： 0, NAN
 
