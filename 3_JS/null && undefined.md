@@ -1,4 +1,4 @@
-## null 和 undefined
+## null 和 undefined 和 布尔值
 
 ### 历史
 
@@ -34,3 +34,6 @@
 - undefined
 
 注意： [], {} 转换为布尔值是 true
+
+总结：null 和 undefined 都是用来表示空值，undefined 用来报错
+布尔值用来进行流程控制，if () 括号中的值会自动转换成布尔值
