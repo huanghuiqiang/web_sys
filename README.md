@@ -1,6 +1,6 @@
 # 前端知识系统
 
-## 前端三大件
+## HTML/CSS/JS
 
 HTML（SVG/Canvas/webgl）
 CSS
