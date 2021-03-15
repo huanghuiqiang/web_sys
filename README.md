@@ -1,6 +1,6 @@
 # 知识系统
 
-## 一.HTML/CSS/JS
+## 一.HTML/CSS/JS/TS
 
 HTML
 CSS
@@ -11,6 +11,8 @@ CSS
 [JavaScript 基于原型的编程范式]()
 
 [使用原生 JavaScript 完成的一些有意思的功能]()
+
+[TyepScript 和 JavaScript 的区别](https://github.com/huanghuiqiang/web_sys/tree/master/post/TyepScript和JavaScript的区别.md)
 
 ## 二.浏览器工作原理
 
